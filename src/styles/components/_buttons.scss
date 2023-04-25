@@ -2,11 +2,13 @@
 
 .button {
     padding: 12px;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: bold;
+    border: 0.6px solid black;
     text-decoration: none;
     text-align: center;
     white-space: nowrap;
+    width: 400px;
 
     &--primary {
         color: variables.$textColor;

@@ -1,6 +1,6 @@
 AOS.init(); 
 
-const dateEvent = new Date("May 18, 2023 19:00:00");
+const dateEvent = new Date("Jan 25, 2024 19:00:00");
 const timeStampEvent = dateEvent.getTime();
 const countTime = setInterval(function() {
     const now = new Date();
